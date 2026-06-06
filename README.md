@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate at NIT Trichy with a strong focus on Machine Learning, MLOps, and Generative AI systems. Experienced in building end-to-end ML pipelines from data processing to cloud deployment using AWS, Docker, and CI/CD. Developed real-time AI solutions in computer vision and NLP, including sign language translation and predictive systems. Solved 500+ DSA problems, strengthening problem-solving and system design skills. Passionate about deploying scalable, production-ready AI solutions that solve real-world problems. Currently seeking opportunities to contribute and grow as an AI/ML engineer.<br>
+Batchler at NIT Trichy with a strong focus on Machine Learning, MLOps, and Generative AI systems. Experienced in building end-to-end ML pipelines from data processing to cloud deployment using AWS, Docker, and CI/CD. Developed real-time AI solutions in computer vision and NLP, including sign language translation and predictive systems. Solved 500+ DSA problems, strengthening problem-solving and system design skills. Passionate about deploying scalable, production-ready AI solutions that solve real-world problems. Currently seeking opportunities to contribute and grow as an AI/ML engineer.<br>
 
 
 ## 🌐 Socials:
